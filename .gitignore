@@ -1,0 +1,6 @@
+# Compilés Python
+__pycache__/
+
+# file sensibles
+
+interface.py
