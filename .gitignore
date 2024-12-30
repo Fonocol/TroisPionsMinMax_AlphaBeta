@@ -4,3 +4,6 @@ __pycache__/
 # file sensibles
 simulation.py
 interface.py
+notbook.ipynb
+AiConfrontation.py
+Mefon.py
